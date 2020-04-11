@@ -1,0 +1,23 @@
+{
+  "name": "practise-proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosphe/practise-proj.git"
+  },
+  "author": "ros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosphe/practise-proj/issues"
+  },
+  "homepage": "https://github.com/rosphe/practise-proj#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
